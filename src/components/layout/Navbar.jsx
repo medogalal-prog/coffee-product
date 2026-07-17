@@ -46,7 +46,7 @@ function navbar() {
         <div className="md:hidden">
           <Sheet>
             <SheetTrigger asChild>
-              <Button variant="ghost" size="icon">
+              <Button variant="ghost" size="icon" className="border py-1 px-2 border-gray-700 h-8" >
                 <Button variant="ghost" size="icon">
                   ☰
                 </Button>

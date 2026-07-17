@@ -991,4 +991,5 @@ The following suggestions are documented for future improvement only and are not
 - Consider adding persistent cart state and a real checkout experience.
 - Introduce environment-based configuration for API endpoints and deployment settings.
 - Improve naming consistency and component organization as the project grows.
-- Add lazy loading and caching to improve performance for larger datasets.
+- Add lazy loading a
+  nd caching to improve performance for larger datasets.

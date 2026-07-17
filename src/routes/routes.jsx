@@ -2,7 +2,7 @@ import { createBrowserRouter } from "react-router";
 import LoginPage from "@/pages/LoginPage";
 import DefaultLayoutProviders from "@/providers/DefaultLayoutProviders";
 import HomePages from "@/pages/HomePages";
-import ProductLayoutProvides from "@/providers/productLayoutProvides";
+import ProductLayoutProvides from "@/providers/ProductLayoutProvides";
 import About from "@/pages/About";
 import Admin from "@/pages/Admin";
 import SinglePage from "@/pages/SinglePage";
